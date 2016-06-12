@@ -1,2 +1,3 @@
-# resources
-A crowdsourced collection of links to learning resources
+# Links to our favourite learning resources
+
+A crowdsourced collection of links to our favourite learning resources, perhaps?
