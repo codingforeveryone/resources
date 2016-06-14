@@ -10,6 +10,6 @@ First check the open issues to see whether a resource list has already been crea
 
 If there is no topic covering your resource link, open an issue, announce it on gitter and let people post their own favourite links. 
 
-To estabilish the most prefered resources, vote on others comments.
+To estabilish the most prefered resources, vote on other's comments.
 
 
