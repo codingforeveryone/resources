@@ -1,6 +1,6 @@
 # Regex resources and tutorials
 
-There are many regex (or regular expression) resources available online. Following are lists of tutorial and references used by the codingforeveryone community.
+There are many regex (or regular expression) resources available online. The following is a list of tutorials, regex testers, references and games recommended by the codingforeveryone community.
 
 Lists are organised by popularity, based on user votes.
 
@@ -10,10 +10,14 @@ Lists are organised by popularity, based on user votes.
 - [JavaScript Tutorial: regular expressions in javascript](http://javascript.info/tutorial/regular-expressions-javascript), includes concepts not covered elsewhere, such as greedy & lazy quantifiers
 - [Eloquent JavaScript, chapter 9](http://eloquentjavascript.net/09_regexp.html) is available online with interactive exercises (and hints)
 
-### References
+###Regex testers
 - [Regex101](https://regex101.com/) 
 - [RegExr](http://regexr.com/)
+
+### References
 - [Regular-Expressions.info](http://www.regular-expressions.info/) is a good reference for more sophisticated expressions (not JavaScript specific)
+- [CFE ReadMe: Regular Expressions - a Beginner's guide](https://github.com/codingforeveryone/READMEs/blob/master/JavaScript/regular-expressions-beginners-guide.md)
+- [CFE ReadMe: Regular Expressions - Lookaheads](https://github.com/codingforeveryone/READMEs/blob/master/JavaScript/regular-expressions-lookaheads.md)
 
 ### Games
 - [Regex Crossword](https://regexcrossword.com/) has its own tutorial as well as beginner, intermediate and advanced crosswords
