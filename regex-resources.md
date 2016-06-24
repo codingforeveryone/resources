@@ -24,6 +24,8 @@ Lists are organised by popularity, based on user votes.
 - [Regex Golf](http://regex.alf.nu/) is quite addictive. Watch out!
 - This blog has a single large [regular expression crossword puzzle](https://gregable.com/2015/12/regular-expression-crossword-puzzle.html) - not for the faint-hearted
 
+### Codewars
+- Add links to recommended codewars problems here.
 
 
 [![Join the chat at https://gitter.im/codingforeveryone/resources](https://badges.gitter.im/codingforeveryone/resources.svg)](https://gitter.im/codingforeveryone/resources?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
