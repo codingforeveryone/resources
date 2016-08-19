@@ -28,8 +28,8 @@ Lists are organised by popularity, based on user votes.
 Here are some recommended regEx codewars problems. These are good to start with because they don't have too many additional steps and their random tests won't trip you up.
 Please add more good regEx tasks as and when you find them.
 
-- [Disemvowel Trolls] (https://www.codewars.com/kata/52fba66badcd10859f00097e)(7kyu)
-- [Remove anchor from URL] (https://www.codewars.com/kata/51f2b4448cadf20ed0000386)(6kyu)
+- [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)(7kyu)
+- [Remove anchor from URL](https://www.codewars.com/kata/51f2b4448cadf20ed0000386)(6kyu)
 - [Regex Password Validation](https://www.codewars.com/kata/regex-password-validation/train/javascript)(5kyu)
 
 
