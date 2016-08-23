@@ -25,7 +25,12 @@ Lists are organised by popularity, based on user votes.
 - This blog has a single large [regular expression crossword puzzle](https://gregable.com/2015/12/regular-expression-crossword-puzzle.html) - not for the faint-hearted
 
 ### Codewars
-- Add links to recommended codewars problems here.
+Here are some recommended regEx codewars problems. These are good to start with because they don't have too many additional steps and their random tests won't trip you up.
+Please add more good regEx tasks as and when you find them.
+
+- [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)(7kyu)
+- [Remove anchor from URL](https://www.codewars.com/kata/51f2b4448cadf20ed0000386)(6kyu)
+- [Regex Password Validation](https://www.codewars.com/kata/regex-password-validation/train/javascript)(5kyu)
 
 
 [![Join the chat at https://gitter.im/codingforeveryone/resources](https://badges.gitter.im/codingforeveryone/resources.svg)](https://gitter.im/codingforeveryone/resources?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
